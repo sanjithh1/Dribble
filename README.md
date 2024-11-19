@@ -1,4 +1,4 @@
-# Project Responsive Web Design using Bootstrap
+![image](https://github.com/user-attachments/assets/27fea326-c966-4b07-a302-cbd520c70222)# Project Responsive Web Design using Bootstrap
 ## Date:12/11/24
 
 ## AIM:
@@ -276,10 +276,8 @@ body {
 
 ```
 ## OUTPUT:
-![image](https://github.com/user-attachments/assets/c2d8f328-0946-44c0-b672-8c100dfc9f3c)
-![image](https://github.com/user-attachments/assets/52d71dc7-984d-4516-a846-91d52692ec57)
-![image](https://github.com/user-attachments/assets/fd2af4fa-41ff-4093-9f30-4dcec07ec10b)
-
+![Screenshot 2024-11-19 092042](https://github.com/user-attachments/assets/9f4cef62-1d32-4b01-833b-6636b2d3837d)
+![Screenshot 2024-11-19 092050](https://github.com/user-attachments/assets/b8551a09-7cda-4cd6-8c85-039d6bd8b21c)
 
 ## RESULT:
 The Project for responsive web design using Bootstrap is completed successfully.
